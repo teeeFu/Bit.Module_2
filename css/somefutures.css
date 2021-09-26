@@ -1,0 +1,34 @@
+.somefutures{
+    background-color: #171f23;
+    text-align: center;
+    color: #f6f6f6;
+    padding: 60px 0;
+    display: block;
+}
+h4{
+    text-transform: uppercase;
+    font-size: 36px;
+}
+.head_black_content{
+    padding-bottom: 20px;
+    text-align: center;
+}
+.head_black_content span{
+    display: inline-block;
+    width: 80px;
+    height: 1px;
+    margin: 25px auto 0;
+    background: #404040;
+}
+.numeral>div>span{
+    font-size: 60px;
+    color: #ff7062;
+}
+.numeral>div>p{
+    font-size: 18px;
+    color:#707070;
+    margin: 6% 0 6% 0;
+}
+.numeral>div>h5{
+    font-size: 26px;
+}

@@ -1,0 +1,43 @@
+.head_white_content span{
+    display: inline-block;
+    width: 153px;
+    height: 2px;
+    background-color: #f3724d;
+}
+.head_white_content{
+    padding: 5%;
+    text-align: center;
+    width: 100%;
+}
+.head_white_content p{
+    padding: 20px 90px 0px ;
+    color: #696969;
+}
+
+.aboutus{
+    margin-bottom: 90px;
+}
+.advantage{
+    text-align: center;
+    width: 100%;
+    background: #ebebeb;
+    padding: 30px;
+    margin: 3% 0;
+}
+.advantage span{
+    font-size: 60px;
+    color: #f4511e;
+}
+.advantage h4{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 0.25px;
+    color: #707070;
+    padding: 25px 0 13px;
+}
+.advantage p{
+    color:#707070;
+    font-size: 14px;
+    line-height: 100%;
+}  
